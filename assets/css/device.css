@@ -90,7 +90,7 @@
     }
     .orbitdiv {
         position: absolute;
-        top: 215px;
+        top: 291px;
         right: -47px;
         width: 234px;
         height: 234px;
@@ -221,6 +221,11 @@
         right: 20px;
         z-index: 91;
     }
+	
+	 .orbitdiv .moreInfo{
+        position: unset;
+    }
+	
     .orbitdiv button.moreInfo{display: block;}
     .orbitdiv-button button.moreInfo{display: none;}
     

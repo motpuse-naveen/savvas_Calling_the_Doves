@@ -414,7 +414,7 @@ ul.small-bullet {
 
 ul.small-bullet li {
     list-style-type: disc;
-    margin: 20px 0px;
+    margin: 10px 0px;
 }
 
 table.table-style1 {
@@ -1238,4 +1238,7 @@ img.aboutBookCover{
 font-size:16px;
 
 }
-
+.stline{padding-top:5px; 
+bottom: -5px;
+ position: relative;
+ }
