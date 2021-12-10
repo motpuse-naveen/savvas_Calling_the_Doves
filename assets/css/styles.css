@@ -685,7 +685,7 @@ h3.main-heading {
     position: absolute;
     top: 100px;
     left: 10px;
-    z-index: 91;
+    z-index: 86;
     background: transparent;
     border-style: none;
     height: 36px;
@@ -848,7 +848,7 @@ background-color: #000000;
 }
 .aboutBook{
     font-size: 15px;
-    font-style: italic;
+   /* font-style: italic;*/
 }
 .aboutBook p{margin: 0px;}
 
