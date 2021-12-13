@@ -7,9 +7,9 @@
 	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#000000;stroke-width:2;}
 	.st3{fill:#F0EFEF;}
-	.st4{enable-background:new    ;}
-	.st5{font-family:sans-serif;}
-	.st6{font-size:26px;}
+	.st4{enable-background:new; }
+	.st5{font-family:sans-serif; }
+	.st6{font-size:26px; font-weight:bold;}
 	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st8{font-size:28px;}
 </style>
