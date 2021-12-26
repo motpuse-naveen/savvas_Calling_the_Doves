@@ -292,9 +292,10 @@ a:hover {
     font-size: 11px;
     line-height: 15px;
     margin-left: 30px;
-    margin-right: 11px;
+    margin-right: 10px;
     position: fixed;
     bottom: 0;
+    left: 0;
     width: 165px;
 }
 
@@ -648,7 +649,7 @@ h1.main-heading {
 h3.main-heading {
     font-family: 'poppins-semibold';
     color: #FFFFFF;
-    text-shadow: 15px 0px 47px rgb(0 0 0);
+    text-shadow: 3px 3px 10px #000000;
     z-index: 12;
 }
 
@@ -1202,6 +1203,9 @@ img.aboutBookCover {
     height: 100%;
     background: #000000;
     opacity: 0.8;
+}
+.moreinfolowerzindex{
+    z-index: 89 !important;
 }
 
 /*Annimation*/

@@ -24,8 +24,14 @@
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 170px;
+        line-height: 140px;
         margin-right: auto;
+    }
+    .moreInfo-wrapper{
+        margin-top: -115px;
+    }
+    .orbitdiv-button{
+        top: -220px;
     }
 
     .popup-content-col .col-md-12 .popup-left-title {
@@ -73,7 +79,7 @@
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 170px;
+        line-height: 140px;
         margin-right: auto;
     }
 
@@ -113,7 +119,7 @@
 
     .orbitdiv-button {
         right: -47px;
-        top: -284px;
+        top: -224px;
     }
 
     .rikshaw-girl-text-sub {
@@ -227,6 +233,8 @@
     .side-disclamer {
         position: relative;
         width: auto;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .content-panel .text-content h2:first-child {
