@@ -8,6 +8,7 @@ $(document).ready(function () {
             $('body').addClass('show-focus-outlines');
         }
     });
+    // document click event
     document.addEventListener('click', function (e) {
         $('body').removeClass('show-focus-outlines');
     });
