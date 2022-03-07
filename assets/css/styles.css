@@ -1353,11 +1353,11 @@ img.aboutBookCover {
     position: relative;
 }
 
-ul.numberlist li {
+ol.numberlist li {
     margin: 10px 0;
 }
 
-ul.numberlist li:before {
+ol.numberlist li:before {
     content: "\200B";
 }
 
