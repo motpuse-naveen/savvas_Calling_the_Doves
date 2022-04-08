@@ -603,7 +603,7 @@ table.table-style2 .trbg {
 
 .award-circle-wrap {
     padding-left: 30px;
-    padding-top: 45px;
+    padding-top: 125px;
 }
 
 .award-circle {
@@ -644,12 +644,25 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 160px;
+    font-size: 94px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -10px;
+    letter-spacing: -2px;
     line-height: 150px;
     margin-right: 72px;
+    margin-top: -18px;
+
+}
+h1 div.subheading{
+    font-family: 'poppins-semibold';
+    color: #FFFFFF;
+    font-size: 77px;
+    letter-spacing: -2px;
+    line-height: 1.2;
+    margin-left: 12px;
+    margin-top: -10px;
+
+
 }
 
 h3.main-heading {
@@ -690,12 +703,12 @@ h3.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -136px;
+    margin-top: -49px;
 }
 
 .moreInfo {
     position: absolute;
-    top: 95px;
+    top: -10px;
     left: 10px;
     z-index: 86;
     background: transparent;
@@ -761,7 +774,7 @@ blockquote {
 
 .orbitdiv-button {
     position: absolute;
-    top: -280px;
+    top: -106px;
     right: -80px;
     width: 234px;
     height: 234px;
