@@ -10,7 +10,7 @@
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 994px) {
     .rikshaw-girl-text {
         position: relative;
         padding-left: 0px;
@@ -20,20 +20,29 @@
 
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 140px;
+        font-size: 94px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 140px;
+        line-height: 99px;
         margin-right: auto;
     }
     .moreInfo-wrapper{
         margin-top: -115px;
+        width: 320px;
+
+    }
+    .moreInfo-additionaltxt {
+        padding: 0px 38px;
     }
     .orbitdiv-button{
-        top: -220px;
+        top: -219px;
     }
-
+    .award-circle-wrap {
+        position: relative;
+        padding-left: 30px;
+        padding-top: 0px;
+    }
     .popup-content-col .col-md-12 .popup-left-title {
         margin-top: 0;
         text-align: left;
@@ -55,7 +64,7 @@
 
     .author-container .author-wrap {
         float: left;
-        padding: 20px;
+        padding: 10px;
         position: absolute;
         /* margin-top: -269px; */
 
@@ -77,11 +86,11 @@
 
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 140px;
+        font-size: 94px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 140px;
+        line-height: 112px;
         margin-right: auto;
     }
 
@@ -99,7 +108,7 @@
     }
     .award-circle-wrap {
         padding-left: 202px;
-        margin-top: -174px;
+        margin-top: -143px;
         padding-top: 66px;
     }
 
@@ -124,7 +133,7 @@
 
     .orbitdiv-button {
         right: -47px;
-        top: -303px;
+        top: -249px;
     }
 
     .rikshaw-girl-text-sub {
@@ -139,18 +148,18 @@
 
 @media (max-width: 760px) {
     h1.main-heading {
-        font-size: 130px;
+        font-size: 94px;
         letter-spacing: 0px;
         line-height: 130px;
         padding-left: 20px;
     }
 
-    .author-container .author-wrap {
+    /* .author-container .author-wrap {
         padding-top: 220px;
-    }
+    } */
 
     .moreInfo-container {
-        margin-top: 150px;
+        margin-top: 71px;
     }
 
     .text-content .card {
@@ -172,38 +181,15 @@
 
 }
 
-@media (max-width: 737px) {
-    .moreInfo {
-        top: -29px;
-    }
-}
 
-@media (max-width: 730px) {
-    .card-body a.card-text {
-        font-size: 12px;
-    }
 
-    .card-body p.card-text {
-        font-size: 11px;
-    }
-
-    .card-back {
-        font-size: 9px;
-    }
-
-    .author-container .author-wrap {
-        padding-top: 112px;
-    }
-
-    .moreInfo-container {
-        margin-top: 150px;
-    }
-
-    .rikshaw-girl-text-sub {
-        padding-left: 23px;
+@media (max-width: 750px) {
+    .moreInfo-additionaltxt {
+        padding: 0px 75px;
     }
 
 }
+
 
 @media (max-width: 640px) {
     .topMenuBar2 {
