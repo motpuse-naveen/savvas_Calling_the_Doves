@@ -169,7 +169,14 @@
         width: 60px;
     }
 }
-
+@media (max-width: 660px){
+    .subheading{
+        letter-spacing: -6px;
+    }
+    .moreInfo-wrapper {
+        width: 303px;
+    }
+}
 @media (max-width: 640px) {
     .topMenuBar2 {
         display: none;
@@ -465,15 +472,20 @@
 
 @media (max-width: 430px) {
     h1.main-heading {
-    font-size: 70px;
-    line-height: 68px;
+        font-size: 63px;
+        line-height: 68px;
+    letter-spacing: -1px;
+
     }
     .subheading{
         font-size: 50px;
         margin-left: 0px;
         margin-top: 6px;
-
-
+        letter-spacing: -1px;
+    }
+    .moreInfo-additionaltxt .title {
+        font-size: 19px;
+        /* margin-top: 45px; */
     }
     .author-container.mobile .author-wrap {
         padding-top: 89px;
@@ -485,7 +497,7 @@
     }
 
     .award-circle-wrap {
-        top: 59%;
+        top: 55%;
     }
 
     .author-container .text {
