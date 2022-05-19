@@ -1402,3 +1402,6 @@ ol.numberlist li:before {
     padding-left: 7px;
     padding-right: 7px;
 }
+.author-wrap span.image img{
+    width: 78px;
+}
